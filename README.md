@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./app-icon.png" width="150" alt="Kuromi Helper">
+  <img src="./iconapp.png" width="150" alt="Kuromi Helper">
 
   # Kuromi Helper
 
