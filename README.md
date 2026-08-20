@@ -18,14 +18,14 @@
 
 | Plataforma | Versão | Download |
 |---|---:|---|
-| Android | 1.0.2 Beta | [Baixar APK](https://github.com/victoregit/kuromi-helper/releases/latest/download/Kuromi-Helper-Android-Beta-1.0.2.apk) |
-| Windows — Instalador | 1.0.2 | [Baixar Setup](https://github.com/victoregit/kuromi-helper/releases/latest/download/Kuromi-Helper-Setup-1.0.2-x64.exe) |
-| Windows — Portátil | 1.0.2 | [Baixar Portable](https://github.com/victoregit/kuromi-helper/releases/latest/download/Kuromi-Helper-Portable-1.0.2-x64.exe) |
-| iPhone/iPad | 1.0.2 Beta | [Baixar IPA](https://github.com/victoregit/kuromi-helper/releases/latest/download/Kuromi-Helper-iOS-unsigned.ipa) |
+| Android | 1.0.2 Beta | [Baixar APK](https://github.com/victoregit/kurami-releases/releases/latest/download/Kuromi-Helper-Android-Beta-1.0.2.apk) |
+| Windows — Instalador | 1.0.2 | [Baixar Setup](https://github.com/victoregit/kurami-releases/releases/latest/download/Kuromi-Helper-Setup-1.0.2-x64.exe) |
+| Windows — Portátil | 1.0.2 | [Baixar Portable](https://github.com/victoregit/kurami-releases/releases/latest/download/Kuromi-Helper-Portable-1.0.2-x64.exe) |
+| iPhone/iPad | 1.0.2 Beta | [Baixar IPA](https://github.com/victoregit/kurami-releases/releases/latest/download/Kuromi-Helper-iOS-unsigned.ipa) |
 
 > Os links passam a funcionar depois que os arquivos forem anexados à release mais recente do GitHub. O IPA é uma build sem assinatura da App Store e precisa ser instalado por sideload.
 
-[Ver todas as versões e notas de atualização](https://github.com/victoregit/kuromi-helper/releases)
+[Ver todas as versões e notas de atualização](https://github.com/victoregit/kurami-releases/releases)
 
 ---
 
