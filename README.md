@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./iconapp.png" width="150" alt="Kuromi Helper">
+  <img src="public/assets/characters/kuromi/witch.png" width="150" alt="Kuromi Helper">
 
   # Kuromi Helper
 
@@ -7,7 +7,7 @@
 
   Um aplicativo de estudos com inteligência artificial para criar resumos, flashcards, simulados e reforços personalizados a partir de um assunto ou material enviado.
 
-  ![Versão](https://img.shields.io/badge/versão-1.0.2-f28bb8?style=for-the-badge)
+  ![Versão](https://img.shields.io/badge/versão-1.0.3-f28bb8?style=for-the-badge)
   ![Plataformas](https://img.shields.io/badge/Android%20%7C%20iOS%20%7C%20Windows-2d2430?style=for-the-badge)
   ![Status](https://img.shields.io/badge/status-beta-cb8cff?style=for-the-badge)
 </div>
@@ -18,14 +18,22 @@
 
 | Plataforma | Versão | Download |
 |---|---:|---|
-| Android | 1.0.2 Beta | [Baixar APK](https://github.com/victoregit/kurami-releases/releases/latest/download/Kuromi-Helper-Android-Beta-1.0.2.apk) |
-| Windows — Instalador | 1.0.2 Beta | [Baixar Setup](https://github.com/victoregit/kurami-releases/releases/latest/download/Kuromi-Helper-Setup-1.0.2-x64.exe) |
-| Windows — Portátil | 1.0.2 Beta | [Baixar Portable](https://github.com/victoregit/kurami-releases/releases/latest/download/Kuromi-Helper-Portable-1.0.2-x64.exe) |
-| iPhone/iPad | 1.0.2 Beta | [Baixar IPA](https://github.com/victoregit/kurami-releases/releases/latest/download/Kuromi-Helper-iOS-unsigned.ipa) |
+| Android | 1.0.3 Beta | [Baixar APK](https://github.com/victoregit/kuromi-helper/releases/latest/download/Kuromi-Helper-Android-Beta-1.0.3.apk) |
+| Windows — Instalador | 1.0.3 | [Baixar Setup](https://github.com/victoregit/kuromi-helper/releases/latest/download/Kuromi-Helper-Setup-1.0.3-x64.exe) |
+| Windows — Portátil | 1.0.3 | [Baixar Portable](https://github.com/victoregit/kuromi-helper/releases/latest/download/Kuromi-Helper-Portable-1.0.3-x64.exe) |
+| iPhone/iPad | 1.0.3 Beta | [Baixar IPA](https://github.com/victoregit/kuromi-helper/releases/latest/download/Kuromi-Helper-iOS-unsigned.ipa) |
 
 > Os links passam a funcionar depois que os arquivos forem anexados à release mais recente do GitHub. O IPA é uma build sem assinatura da App Store e precisa ser instalado por sideload.
 
-[Ver todas as versões e notas de atualização](https://github.com/victoregit/kurami-releases/releases)
+[Ver todas as versões e notas de atualização](https://github.com/victoregit/kuromi-helper/releases)
+
+---
+
+## Acesso controlado
+
+O Kuromi Helper é um projeto de uso privado e possui disponibilidade limitada. A criação de contas não é pública nem automática: cada acesso é cadastrado e autorizado manualmente pelo administrador.
+
+Para preservar a segurança, o controle de custos e a qualidade do serviço, cada conta aprovada é vinculada individualmente à sua própria chave de API Gemini no ambiente seguro do backend. Solicitações de acesso, inclusão de usuários ou alteração de credenciais são tratadas de forma manual.
 
 ---
 
@@ -140,7 +148,7 @@ O aplicativo utiliza uma identidade kawaii, fonte arredondada, personagens, tons
 3. Autorize a instalação de aplicativos dessa fonte, caso o Android solicite.
 4. Conclua a instalação e abra o Kuromi Helper.
 
-A build 1.0.2 é uma versão beta assinada para testes e ainda não é uma publicação da Play Store.
+A build 1.0.3 é uma versão beta assinada para testes e ainda não é uma publicação da Play Store.
 
 ### Windows
 
@@ -223,7 +231,7 @@ O repositório inclui o workflow `ios-free-sideload` em `codemagic.yaml`. Depois
 ```text
 src/                         interface e regras do aplicativo
 public/assets/               imagens usadas no app
-assets-source/               artes originais e arquivos de trabalho
+assets-source/               fontes necessárias para gerar animações e ícones
 android/                     projeto nativo Android
 ios/                         projeto nativo iOS
 electron/                    aplicativo Windows
@@ -234,7 +242,7 @@ codemagic.yaml               workflow remoto do iOS
 
 ## Versão atual
 
-Consulte as mudanças da versão em [RELEASE_NOTES_1.0.2.md](docs/RELEASE_NOTES_1.0.2.md).
+Consulte as mudanças da versão em [RELEASE_NOTES_1.0.3.md](docs/RELEASE_NOTES_1.0.3.md).
 
 ## Aviso sobre as artes
 
@@ -243,6 +251,6 @@ Este é um projeto de uso privado. Personagens, nomes e marcas de terceiros pert
 ---
 
 <div align="center">
-  <strong>Kuromi Helper 1.0.2</strong><br>
+  <strong>Kuromi Helper 1.0.3</strong><br>
   Feito para deixar a rotina de estudos mais leve, organizada e bonita.
 </div>
