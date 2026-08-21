@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/victoregit/kuromi-releases/main/public/assets/characters/kuromi/witch.png" width="150" alt="Kuromi Helper">
+  <img src="https://raw.githubusercontent.com/victoregit/kuromi-releases/main/iconapp.png" width="150" alt="Kuromi Helper">
 
   # Kuromi Helper
 
